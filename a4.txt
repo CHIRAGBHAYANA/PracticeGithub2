@@ -1,1 +1,1 @@
-from feature 2 branch
+from feature 2 branches
